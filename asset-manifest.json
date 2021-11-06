@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thebsdc/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/thebsdc/static/js/main.692686c1.chunk.js",
+    "main.js.map": "/thebsdc/static/js/main.692686c1.chunk.js.map",
+    "runtime-main.js": "/thebsdc/static/js/runtime-main.c6e746a9.js",
+    "runtime-main.js.map": "/thebsdc/static/js/runtime-main.c6e746a9.js.map",
+    "static/js/2.843a4ffd.chunk.js": "/thebsdc/static/js/2.843a4ffd.chunk.js",
+    "static/js/2.843a4ffd.chunk.js.map": "/thebsdc/static/js/2.843a4ffd.chunk.js.map",
+    "static/js/3.eda223d0.chunk.js": "/thebsdc/static/js/3.eda223d0.chunk.js",
+    "static/js/3.eda223d0.chunk.js.map": "/thebsdc/static/js/3.eda223d0.chunk.js.map",
+    "index.html": "/thebsdc/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/thebsdc/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.843a4ffd.chunk.js.LICENSE.txt": "/thebsdc/static/js/2.843a4ffd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thebsdc/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6e746a9.js",
+    "static/js/2.843a4ffd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.692686c1.chunk.js"
+  ]
+}
