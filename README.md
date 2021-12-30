@@ -8,6 +8,7 @@ Hi, I'm [Chandan Bangalore Shankar Denanath](https://thebsdc.github.io/chandanbs
 <h1>Tech that I've used:</h1>
 
 > Programming Languages:
+
 <table>
 <tr>
 <td align="center" width="96">
@@ -42,7 +43,20 @@ alt="Java"
 </tr>
 </table>
 
-> Front End Web Development:
+<td align="center" width="96">
+<img
+src="./img/php.svg"
+width="48"
+height="48"
+alt="PHP"
+/>
+<br />PHP
+</td>
+</tr>
+</table>
+
+> Front End Web Development Frameworks:
+
 <table>
 <tr>
 <td align="center" width="96">
@@ -57,8 +71,8 @@ alt="React.js"
 </tr>
 </table>
 
+> Mobile Application Development Frameworks:
 
-> Mobile Application Development:
 <table>
 <tr>
 <td align="center" width="96">
@@ -70,7 +84,6 @@ alt="React Native"
 />
 <br />React Native
 </td>
-
 
 <td align="center" width="96">
 <img
@@ -84,22 +97,8 @@ alt="Flutter"
 </tr>
 </table>
 
-> Mobile Application Development:
-<table>
-<tr>
-<td align="center" width="96">
-<img
-src="./img/react.svg"
-width="48"
-height="48"
-alt="React Native"
-/>
-<br />React Native
-</td>
-</tr>
-</table>
-  
 > Cloud:
+
 <table>
 <tr>
 <td align="center" width="96">
@@ -114,7 +113,8 @@ alt="Firebase"
 </tr>
 </table>
 
-> Web Design:
+> Web Design Frameworks:
+
 <table>
 <tr>
 <td align="center" width="96">
