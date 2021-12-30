@@ -43,6 +43,8 @@ alt="Java"
 </tr>
 </table>
 
+<table>
+<tr>
 <td align="center" width="96">
 <img
 src="./img/php.svg"
