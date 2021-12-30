@@ -3,10 +3,12 @@
 Hello, I'm [Chandan Bangalore Shankar Denanath](https://thebsdc.github.io/chandanbsd) 👋.
 
 I'm pursing M. S. in Computer Science at Indiana University Bloomington.
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanbsd&show_icons=true&theme=radical)
+
 
 <h1 >Tech that I've used:</h1>
 
-<table align="right">
+<table align = "left">
 <tr>
 <td align="center" width="96">
 <img
@@ -135,6 +137,6 @@ alt="Sass CSS"
 </tr>
 </table>
 
-<a align="left"> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbsd&count_private=true&langs_count=8&theme=radical" />
-</a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbsd&count_private=true&langs_count=8&theme=radical" />
+
