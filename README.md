@@ -1,15 +1,12 @@
 # Chandan B S D
 
-Hi, I'm [Chandan Bangalore Shankar Denanath](https://thebsdc.github.io/chandanbsd) 👋
-<br />
+Hello, I'm [Chandan Bangalore Shankar Denanath](https://thebsdc.github.io/chandanbsd) 👋.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=chandanbsd&show_icons=true)](https://github.com/windard)
+I'm pursing M. S. in Computer Science at Indiana University Bloomington.
 
-<h1>Tech that I've used:</h1>
+<h1 >Tech that I've used:</h1>
 
-> Programming Languages:
-
-<table>
+<table align="right">
 <tr>
 <td align="center" width="96">
 <img
@@ -40,11 +37,7 @@ alt="Java"
 />
 <br />Java
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
 <td align="center" width="96">
 <img
 src="./img/php.svg"
@@ -54,12 +47,28 @@ alt="PHP"
 />
 <br />PHP
 </td>
+
+<td align="center" width="96">
+<img
+src="./img/c++.svg"
+width="48"
+height="48"
+alt="C++"
+/>
+<br />C++
+</td>
+
+<td align="center" width="96">
+<img
+src="./img/c.svg"
+width="48"
+height="48"
+alt="C"
+/>
+<br />C
+</td>
 </tr>
-</table>
 
-> Front End Web Development Frameworks:
-
-<table>
 <tr>
 <td align="center" width="96">
 <img
@@ -70,13 +79,7 @@ alt="React.js"
 />
 <br />React.js
 </td>
-</tr>
-</table>
 
-> Mobile Application Development Frameworks:
-
-<table>
-<tr>
 <td align="center" width="96">
 <img
 src="./img/react.svg"
@@ -85,7 +88,7 @@ height="48"
 alt="React Native"
 />
 <br />React Native
-</td>
+  </td>
 
 <td align="center" width="96">
 <img
@@ -96,13 +99,7 @@ alt="Flutter"
 />
 <br />Flutter
 </td>
-</tr>
-</table>
-
-> Cloud:
-
-<table>
-<tr>
+  
 <td align="center" width="96">
 <img
 src="./img/firebase.svg"
@@ -112,13 +109,9 @@ alt="Firebase"
 />
 <br />Firebase
 </td>
-</tr>
-</table>
 
-> Web Design Frameworks:
+</td>
 
-<table>
-<tr>
 <td align="center" width="96">
 <img
 src="./img/tailwindcss.svg"
@@ -138,5 +131,10 @@ alt="Sass CSS"
 />
 <br />Sass CSS
 </td>
+
 </tr>
 </table>
+
+<a align="left"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbsd&count_private=true&langs_count=8&theme=radical" />
+</a>
