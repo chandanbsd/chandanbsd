@@ -2,8 +2,7 @@
 
 Hello, I'm [Chandan Bangalore Shankar Denanath](https://thebsdc.github.io/chandanbsd) 👋.
 
-I'm pursing M. S. in Computer Science at Indiana University Bloomington.
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanbsd&show_icons=true&theme=radical)
+I'm pursing Master of Science in Computer Science at Indiana University Bloomington.
 
 
 <h1 >Tech that I've used:</h1>
@@ -138,5 +137,5 @@ alt="Sass CSS"
 </table>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbsd&count_private=true&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbsd&layout=compact&count_private=true&langs_count=8&theme=radical)
 
