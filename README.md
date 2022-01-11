@@ -1,6 +1,6 @@
 # Chandan B S D
 
-Hello, I'm [Chandan Bangalore Shankar Denanath](https://thebsdc.github.io/chandanbsd) 👋.
+Hello, I'm [Chandan Bangalore Shankar Denanath](https://chandanbsd.github.io) 👋.
 
 I'm pursing Master of Science in Computer Science at Indiana University Bloomington.
 
