@@ -1,16 +1,11 @@
-<h1>Chandan Bangalore Shankar Denanath</h1>
+<h1>Chandan Bangalore Shankar Denanath (@chandanbsd)</h1>
 
 Hello 👋, I'm a graduate student pursing Master of Science in Computer Science at Indiana University Bloomington.
 
-[Website 1](https://www.chandanbsd.com/) : https://www.chandanbsd.com/
+Website 1: https://www.chandanbsd.com/
 
-[Website 2](https://www.chandanbsd.tech/) : https://www.chandanbsd.tech/
-
-[Twitter](https://www.twitter.com/chandanbsd) : @chandanbsd (https://www.twitter.com/chandanbsd)
-
-[Facebook](https://www.facebook.com/bsdchandan) : @bsdchandan , (https://www.facebook.com/bsdchandan)
-
-[LinkedIn](https://www.linkedin.com/in/chandanbsd) : https://www.linkedin.com/in/chandanbsd
+Website 2: https://www.chandanbsd.tech/
+<br>
 
 <h1>My Skills:</h1>
 <h2>Programming Languages</h2>
@@ -60,16 +55,6 @@ height="48"
 alt="React.js"
 />
 <br />React.js
-</td>
-
-<td align="center" width="96">
-<img
-src="./img/express.svg"
-width="48"
-height="48"
-alt="Express.js"
-/>
-<br />Express.js
 </td>
 
 <td align="center" width="96">
