@@ -5,6 +5,9 @@ Hello 👋, I'm a graduate student pursing Master of Science in Computer Science
 Website 1: https://www.chandanbsd.com/
 
 Website 2: https://www.chandanbsd.tech/
+
+Linkedin: https://www.linkedin.com/in/chandanbsd/
+
 <br>
 
 <h1>My Skills:</h1>
@@ -40,7 +43,6 @@ alt="Flutter"
 <br />Flutter
 </td>
 
-  
 <td align="center" width="96">
 <img
 src="./img/js.svg"
@@ -62,6 +64,5 @@ alt="Python"
 </td>
   
 </tr>
-
 
 </table>
