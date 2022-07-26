@@ -13,34 +13,14 @@ Linkedin: https://www.linkedin.com/in/chandanbsd/
 <h1>My Skills:</h1>
 <table>
 <tr>
-<td align="center" width="96">
+<td align="center" width="200">
 <img
 src="./img/react.svg"
 width="48"
 height="48"
 alt="React.js"
 />
-<br />React.js
-</td>
-
-<td align="center" width="96">
-<img
-src="./img/react.svg"
-width="48"
-height="48"
-alt="React Native"
-/>
-<br />React Native
-</td>
-
-<td align="center" width="96">
-<img
-src="./img/flutter-logo.svg"
-width="48"
-height="48"
-alt="Flutter"
-/>
-<br />Flutter
+<br />React.js & React Native
 </td>
 
 <td align="center" width="96">
@@ -51,6 +31,16 @@ height="48"
 alt="JavaScript"
 />
 <br />JavaScript
+</td>
+
+<td align="center" width="96">
+<img
+src="./img/flutter-logo.svg"
+width="48"
+height="48"
+alt="Flutter"
+/>
+<br />Flutter
 </td>
 
 <td align="center" width="96">
