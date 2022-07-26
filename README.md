@@ -2,10 +2,7 @@
 
 Hello 👋, I'm a graduate student pursing Master of Science in Computer Science at Indiana University Bloomington.
 
-Website 1: https://www.chandanbsd.com/
-
-Website 2: https://www.chandanbsd.tech/
-
+Website: https://www.chandanbsd.com/
 Linkedin: https://www.linkedin.com/in/chandanbsd/
 
 <br>
