@@ -31,15 +31,6 @@ alt="JavaScript"
 <br />JavaScript
 </td>
 
-<td align="center" width="96">
-<img
-src="./img/flutter-logo.svg"
-width="48"
-height="48"
-alt="Flutter"
-/>
-<br />Flutter
-</td>
 
 <td align="center" width="96">
 <img
