@@ -6,42 +6,4 @@ Website: https://www.chandanbsd.com/
 
 Linkedin: https://www.linkedin.com/in/chandanbsd/
 
-<br>
-
-<h1>My Skills:</h1>
-<table>
-<tr>
-<td align="center" width="200">
-<img
-src="./img/react.svg"
-width="48"
-height="48"
-alt="React.js"
-/>
-<br />React.js & React Native
-</td>
-
-<td align="center" width="96">
-<img
-src="./img/js.svg"
-width="48"
-height="48"
-alt="JavaScript"
-/>
-<br />JavaScript
-</td>
-
-
-<td align="center" width="96">
-<img
-src="./img/python.svg"
-width="48"
-height="48"
-alt="Python"
-/>
-<br />Python
-</td>
-  
-</tr>
-
-</table>
+Resume: https://drive.google.com/drive/folders/12H1d2Ycd5elWiJKx7WRCwsbt-QoaN7Uf?usp=sharing
