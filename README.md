@@ -6,4 +6,4 @@ Website: https://www.chandanbsd.com/
 
 Linkedin: https://www.linkedin.com/in/chandanbsd/
 
-Resume: https://drive.google.com/drive/folders/12H1d2Ycd5elWiJKx7WRCwsbt-QoaN7Uf?usp=sharing
+Resume: https://drive.google.com/file/d/1zaAPH2ygYOnggwMPGRJZQNd_uyqIbmLp/view?usp=sharing
